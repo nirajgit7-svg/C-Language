@@ -1,12 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Program for taking input by user ";
     int a , b ;
-    float sum;
-    sum = a+b;
-
-    cout<<"Enter the value of 'a' : ";
+    cout<<"Program for taking input by user ";
+    cout<<"Enter the value of 'a' : " ;
     cin>>a;
     cout<<"Enter the value of 'b' : ";
     cin>>b;
