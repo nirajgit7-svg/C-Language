@@ -11,7 +11,8 @@ int main()
      cout<<"Enter Time Period : ";
     cin>>time;
     si = (prin*rate*time )/100;
-    cout<<si;
+    cout<<si<<endl;
+    cout<<"Total payable amount : "<<si+prin;
 
 
 
