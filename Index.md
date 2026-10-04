@@ -1,5 +1,5 @@
 # C-Language
-Learning C++ language Of DSA ( From basic to advance)</br>
+Learning C++ language for DSA ( From basic to advance)</br>
 Self learning </br>
 Author - Niraj</br>
 
